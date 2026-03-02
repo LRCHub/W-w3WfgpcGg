@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "It Will Rain",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-03-02T05:17:48.551289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Will Rain for a Million Years",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/01_It_Will_Rain_for_a_Million_Years_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/02_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/03_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/04_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/05_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Will Rain [The Twilight Saga: Breaking Dawn, Pt 1]",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/06_It_Will_Rain_[The_Twilight_Saga__Breaking_Dawn,_Pt_1]_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/07_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Will Rain (2011)",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/08_It_Will_Rain_(2011)_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/09_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/10_It_Will_Rain_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/11_It_Will_Rain_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It Will Rain (Bruno Mars Cover)",
+      "artist": "Neon NiteClub",
+      "has_synced": false,
+      "path": "select/12_It_Will_Rain_(Bruno_Mars_Cover)_Neon_NiteClub.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sparks It Will Rain",
+      "artist": "Poison the Well",
+      "has_synced": true,
+      "path": "select/13_Sparks_It_Will_Rain_Poison_the_Well.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/14_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/15_It_Will_Rain_Bruno_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_It_Will_Rain_Bruno_Mars.txt"
+    }
+  ]
+}
